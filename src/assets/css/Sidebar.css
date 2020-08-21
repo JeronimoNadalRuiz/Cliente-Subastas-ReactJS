@@ -1,0 +1,16 @@
+.nav-item a{
+    color: gray;
+  }
+  
+  .nav-item a:hover{
+    color: black;
+  }
+
+  #sidebar, .navbar-brand{
+      border-right: 0.5px solid gray;
+  }
+
+  .react-datetime-picker{
+    display: block !important;
+    margin-top: 15px;
+  }

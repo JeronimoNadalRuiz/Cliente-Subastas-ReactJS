@@ -1,0 +1,12 @@
+.contenedor-subastas{
+    margin:15px;
+}
+
+#addForm{
+    padding: 20px;
+}
+
+#addForm>textarea, #addForm>input[type="number"],#addForm>input[type="submit"]{
+    margin-top: 15px;
+}
+
